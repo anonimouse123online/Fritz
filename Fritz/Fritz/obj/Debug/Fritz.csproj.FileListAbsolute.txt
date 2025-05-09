@@ -1,0 +1,13 @@
+E:\Visual studio\samplemamtonix\Fritz\Fritz\obj\Debug\Fritz.csproj.AssemblyReference.cache
+E:\Visual studio\samplemamtonix\Fritz\Fritz\obj\Debug\Fritz.Properties.Resources.resources
+E:\Visual studio\samplemamtonix\Fritz\Fritz\obj\Debug\Fritz.csproj.GenerateResource.cache
+E:\Visual studio\samplemamtonix\Fritz\Fritz\obj\Debug\Fritz.csproj.CoreCompileInputs.cache
+E:\Visual studio\samplemamtonix\Fritz\Fritz\obj\Debug\Fritz.LoginForm.resources
+E:\Visual studio\samplemamtonix\Fritz\Fritz\obj\Debug\Fritz.JobDetailsForm.resources
+E:\Visual studio\samplemamtonix\Fritz\Fritz\obj\Debug\Fritz.ResultForm.resources
+E:\Visual studio\samplemamtonix\Fritz\Fritz\obj\Debug\Fritz.QuestionnaireForm.resources
+E:\Visual studio\samplemamtonix\Fritz\Fritz\bin\Debug\Fritz.exe.config
+E:\Visual studio\samplemamtonix\Fritz\Fritz\bin\Debug\Fritz.exe
+E:\Visual studio\samplemamtonix\Fritz\Fritz\bin\Debug\Fritz.pdb
+E:\Visual studio\samplemamtonix\Fritz\Fritz\obj\Debug\Fritz.exe
+E:\Visual studio\samplemamtonix\Fritz\Fritz\obj\Debug\Fritz.pdb
